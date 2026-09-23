@@ -1,0 +1,9 @@
+{
+  "name": "image-to-lcd",
+  "version": "1.0.0",
+  "description": "图片转 LCD 点阵工具（对应导师给的 Dart 版 image_to_lcd.dart），输出 1bit/像素 C 数组",
+  "main": "image_to_lcd.js",
+  "dependencies": {
+    "jimp": "^1.6.0"
+  }
+}
